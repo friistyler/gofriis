@@ -2,7 +2,7 @@
 Repo to learn go and perhaps build a personal CV website
 
 # Roadmap
-- 1. [ ] Hello world webserver
+- 1. [x] Hello world webserver
 - 2. [ ] Create REST API endpoint serving json response
 - 4. [ ] Serve static content 
 - 5. [ ] Create NextJS default app
